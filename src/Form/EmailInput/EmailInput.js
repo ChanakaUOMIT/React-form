@@ -3,7 +3,7 @@ import React from 'react';
 const EmailInput = (props) =>{
     return(
         <div className="form-group">
-            <input type="email" placeholder="*Email" 
+            <input type="email" placeholder="*Enter Email" 
                 value={props.email} 
                 onChange={props.emailInputHandler}
                 

@@ -99,6 +99,7 @@ class Form extends Component {
 		}
 
 		console.log("Password confirmation is validated");
+		console.log("Password confirmation is validated username");
 
 		return;
 	}

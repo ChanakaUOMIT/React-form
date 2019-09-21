@@ -98,13 +98,10 @@ class Form extends Component {
       });
     }
 
-<<<<<<< HEAD
 		console.log("Password confirmation is validated");
 		console.log("Password confirmation is validated username");
-=======
     console.log("Password confirmation is validated");
     console.log("Password confirmation is validated password");
->>>>>>> 7e3aa68101023bd7b8bf7458d283781205ab7ba2
 
     return;
   }
